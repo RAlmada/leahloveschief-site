@@ -1,0 +1,30 @@
+.wrapper.style4 {
+	padding-top: 40px 80px;
+}
+
+#contactFormDiv {
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+#contactFormImg {
+	display: block;
+	margin: 30px auto;
+	height: 100px;
+}
+#contactFormMsg {
+	display: none;
+	padding: 20px;
+	width: 100%;
+	margin: 0 auto;
+}
+#contactFormMsg.success {
+	background-color: #17481A;
+}
+#contactFormMsg.error {
+	background-color: #47181A;
+}
+
+#formMessage {
+	resize:vertical;
+}

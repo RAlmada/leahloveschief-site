@@ -1,2 +1,2 @@
 # leahloveschief-site
-repo for <leahloveschief.tv>
+repo for [leahloveschief.tv](leahloveschief.tv)
